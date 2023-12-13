@@ -1,6 +1,8 @@
 /** @file Yaw Drive Functions
  *  This file contains functions during the prototyping/sensor testing stage.
  *  None of these are actually used in the demonstration code
+ *  @author Shashwat Sparsh
+ *  @date 20 November 2023
 */
 
 #include <Arduino.h>

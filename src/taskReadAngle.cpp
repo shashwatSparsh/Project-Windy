@@ -2,7 +2,7 @@
  *  This file defines the angleRead task.
  * 
  *  @author Shashwat Sparsh
- * 
+ *  @date 4 December 2023
 */
 
 #include <Arduino.h>
